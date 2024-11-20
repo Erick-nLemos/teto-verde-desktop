@@ -1,0 +1,150 @@
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe.config
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.pdb
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\bin\Debug\BLL.dll
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\bin\Debug\DAL.dll
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\bin\Debug\Model.dll
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\bin\Debug\BLL.pdb
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\bin\Debug\DAL.pdb
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\bin\Debug\Model.pdb
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csprojResolveAssemblyReference.cache
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmTestes.resources
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Properties.Resources.resources
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.GenerateResource.Cache
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.exe
+Z:\ProjetosLip2\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.pdb
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe.config
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.pdb
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\bin\Debug\BLL.dll
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\bin\Debug\DAL.dll
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\bin\Debug\Model.dll
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\bin\Debug\BLL.pdb
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\bin\Debug\DAL.pdb
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\bin\Debug\Model.pdb
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csprojAssemblyReference.cache
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmTestes.resources
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Properties.Resources.resources
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.GenerateResource.cache
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CoreCompileInputs.cache
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CopyComplete
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.exe
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.pdb
+C:\2019\2019-2\POOII\CrudC#\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmProdutos.resources
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe.config
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.pdb
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\BLL.dll
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\DAL.dll
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Model.dll
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\BLL.pdb
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\DAL.pdb
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Model.pdb
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmProdutos.resources
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmTestes.resources
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.GenerateResource.cache
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CopyComplete
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.exe
+C:\Users\Samsung\Desktop\Terca\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.pdb
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe.config
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.pdb
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\BLL.dll
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\DAL.dll
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Model.dll
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\BLL.pdb
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\DAL.pdb
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\bin\Debug\Model.pdb
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csprojAssemblyReference.cache
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmProdutos.resources
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Properties.Resources.resources
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.GenerateResource.cache
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CoreCompileInputs.cache
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CopyComplete
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.exe
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.pdb
+C:\Users\SANDRA\Desktop\ProjetosTestar\Aula 07 - Meu\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmFunc.resources
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csprojAssemblyReference.cache
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmProdutos.resources
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmFunc.resources
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Properties.Resources.resources
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.GenerateResource.cache
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CoreCompileInputs.cache
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.exe
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.pdb
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe.config
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.pdb
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\BLL.dll
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\DAL.dll
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Model.dll
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\BLL.pdb
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\DAL.pdb
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Model.pdb
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CopyComplete
+C:\Users\SANDRA\Desktop\Aula EAD\1-ProjetosTestar\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FPrincipal.resources
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe.config
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.pdb
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\BLL.dll
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\DAL.dll
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Model.dll
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\BLL.pdb
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\DAL.pdb
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Model.pdb
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.AssemblyReference.cache
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FPrincipal.resources
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmProdutos.resources
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmFunc.resources
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Properties.Resources.resources
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.GenerateResource.cache
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CoreCompileInputs.cache
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Co.A0258E96.Up2Date
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.exe
+D:\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.pdb
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe.config
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.pdb
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\BLL.dll
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\DAL.dll
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Model.dll
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\BLL.pdb
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\DAL.pdb
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Model.pdb
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.AssemblyReference.cache
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FPrincipal.resources
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmProdutos.resources
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmFunc.resources
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Properties.Resources.resources
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.GenerateResource.cache
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Co.A0258E96.Up2Date
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.exe
+C:\Users\karin\OneDrive\Desktop\Karina\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.pdb
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe.config
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.exe
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Teste_Conexao.pdb
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\BLL.dll
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\DAL.dll
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Model.dll
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\BLL.pdb
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\DAL.pdb
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Model.pdb
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.AssemblyReference.cache
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FPrincipal.resources
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.FrmProdutos.resources
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Properties.Resources.resources
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.GenerateResource.cache
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.csproj.CoreCompileInputs.cache
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Co.A0258E96.Up2Date
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.exe
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.pdb
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Escolha.resources
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Login.resources
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\bin\Debug\Properties\Resources\logo redondo sem fundo.jpg
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Formfuncionario.resources
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.Capa.resources
+C:\Users\55119\OneDrive\Área de Trabalho\csharp\1-CRUD_CSHARP_FUNCIONANDO\CRUD_CSHARP\CRUD_CSHARP\Conexao_BD\Teste_Conexao\obj\Debug\Teste_Conexao.admin1.resources

@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\fprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\fprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\csharp\\1-crud_csharp_funcionando\\crud_csharp\\crud_csharp\\conexao_bd\\teste_conexao\\fprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\fprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\escolha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\escolha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\escolha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\escolha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\formfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\formfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56E6F22-8CDF-4A56-A9C4-1C4B87C9DBDA}|Model\\Model.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\csharp\\1-crud_csharp_funcionando\\crud_csharp\\crud_csharp\\conexao_bd\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56E6F22-8CDF-4A56-A9C4-1C4B87C9DBDA}|Model\\Model.csproj|solutionrelative:model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\capa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\capa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\capa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\capa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\formfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\formfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\55119\\AppData\\Local\\Temp\\de1e1c40-ab0e-42e3-bb2b-cc03271f9116_OneDrive_2024-10-21.zip.116\\Projeto CRUD\\FrmFunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\teste_conexao\\formfuncionario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E25F9F9-8D46-4951-881D-5159657F1727}|Teste_Conexao\\Teste_Conexao.csproj|solutionrelative:teste_conexao\\formfuncionario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\55119\\AppData\\Local\\Temp\\0b0c8b3d-9c43-4826-a607-ffbe49fa67ef_OneDrive_2024-10-21.zip.7ef\\Projeto CRUD\\FrmFunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Teste_Conexao||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\55119\\AppData\\Local\\Temp\\151de58b-722e-4468-a83d-5e64cce5973a_1-CRUD_CSHARP_FUNCIONANDO.zip.73a\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FrmFunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\55119\\AppData\\Local\\Temp\\1eea912e-5aad-4340-a11e-660588a01205_OneDrive_2024-10-21.zip.205\\Projeto CRUD\\FrmFunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Model\\Produto.cs",
+              "RelativeToolTip": "Model\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:31:34.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Escolha.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Escolha.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\Escolha.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Escolha.cs [Design]",
+              "RelativeToolTip": "Teste_Conexao\\Escolha.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:47:31.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Escolha.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Escolha.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\Escolha.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Escolha.cs",
+              "RelativeToolTip": "Teste_Conexao\\Escolha.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:43:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Formfuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Formfuncionario.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\Formfuncionario.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Formfuncionario.cs [Design]",
+              "RelativeToolTip": "Teste_Conexao\\Formfuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:41:14.749Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admin1.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\admin1.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\admin1.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\admin1.cs",
+              "RelativeToolTip": "Teste_Conexao\\admin1.cs",
+              "ViewState": "AQIAAJcBAAAAAAAAAAAuwKoBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:42:41.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FPrincipal.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\FPrincipal.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FPrincipal.cs [Design]",
+              "RelativeToolTip": "Teste_Conexao\\FPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:47:36.865Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\admin1.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\admin1.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\admin1.cs [Design]",
+              "RelativeToolTip": "Teste_Conexao\\admin1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:08:59.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Capa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Capa.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\Capa.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Capa.cs [Design]",
+              "RelativeToolTip": "Teste_Conexao\\Capa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:55:55.046Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Capa.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Capa.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\Capa.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Capa.cs",
+              "RelativeToolTip": "Teste_Conexao\\Capa.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:02:00.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Program.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\Program.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Program.cs",
+              "RelativeToolTip": "Teste_Conexao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:41:19.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FPrincipal.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\FPrincipal.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FPrincipal.cs",
+              "RelativeToolTip": "Teste_Conexao\\FPrincipal.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAE8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:43:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Formfuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Formfuncionario.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\Formfuncionario.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Formfuncionario.cs",
+              "RelativeToolTip": "Teste_Conexao\\Formfuncionario.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAuwK8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:40:24.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmProdutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FrmProdutos.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\FrmProdutos.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FrmProdutos.cs [Design]",
+              "RelativeToolTip": "Teste_Conexao\\FrmProdutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:47:42.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FrmProdutos.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\FrmProdutos.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FrmProdutos.cs",
+              "RelativeToolTip": "Teste_Conexao\\FrmProdutos.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAqwAsBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:27:10.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmFunc.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\AppData\\Local\\Temp\\de1e1c40-ab0e-42e3-bb2b-cc03271f9116_OneDrive_2024-10-21.zip.116\\Projeto CRUD\\FrmFunc.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\de1e1c40-ab0e-42e3-bb2b-cc03271f9116_OneDrive_2024-10-21.zip.116\\Projeto CRUD\\FrmFunc.cs",
+              "ToolTip": "C:\\Users\\55119\\AppData\\Local\\Temp\\de1e1c40-ab0e-42e3-bb2b-cc03271f9116_OneDrive_2024-10-21.zip.116\\Projeto CRUD\\FrmFunc.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\de1e1c40-ab0e-42e3-bb2b-cc03271f9116_OneDrive_2024-10-21.zip.116\\Projeto CRUD\\FrmFunc.cs [Somente Leitura]",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:24:39.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Formfuncionario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Formfuncionario.Designer.cs",
+              "RelativeDocumentMoniker": "Teste_Conexao\\Formfuncionario.Designer.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Formfuncionario.Designer.cs",
+              "RelativeToolTip": "Teste_Conexao\\Formfuncionario.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:40:00.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmFunc.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\AppData\\Local\\Temp\\0b0c8b3d-9c43-4826-a607-ffbe49fa67ef_OneDrive_2024-10-21.zip.7ef\\Projeto CRUD\\FrmFunc.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0b0c8b3d-9c43-4826-a607-ffbe49fa67ef_OneDrive_2024-10-21.zip.7ef\\Projeto CRUD\\FrmFunc.cs",
+              "ToolTip": "C:\\Users\\55119\\AppData\\Local\\Temp\\0b0c8b3d-9c43-4826-a607-ffbe49fa67ef_OneDrive_2024-10-21.zip.7ef\\Projeto CRUD\\FrmFunc.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0b0c8b3d-9c43-4826-a607-ffbe49fa67ef_OneDrive_2024-10-21.zip.7ef\\Projeto CRUD\\FrmFunc.cs [Somente Leitura]",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:17:39.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmFunc.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\AppData\\Local\\Temp\\1eea912e-5aad-4340-a11e-660588a01205_OneDrive_2024-10-21.zip.205\\Projeto CRUD\\FrmFunc.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\1eea912e-5aad-4340-a11e-660588a01205_OneDrive_2024-10-21.zip.205\\Projeto CRUD\\FrmFunc.cs",
+              "ToolTip": "C:\\Users\\55119\\AppData\\Local\\Temp\\1eea912e-5aad-4340-a11e-660588a01205_OneDrive_2024-10-21.zip.205\\Projeto CRUD\\FrmFunc.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\1eea912e-5aad-4340-a11e-660588a01205_OneDrive_2024-10-21.zip.205\\Projeto CRUD\\FrmFunc.cs [Somente Leitura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:45:18.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmFunc.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\AppData\\Local\\Temp\\151de58b-722e-4468-a83d-5e64cce5973a_1-CRUD_CSHARP_FUNCIONANDO.zip.73a\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FrmFunc.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\151de58b-722e-4468-a83d-5e64cce5973a_1-CRUD_CSHARP_FUNCIONANDO.zip.73a\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FrmFunc.cs",
+              "ToolTip": "C:\\Users\\55119\\AppData\\Local\\Temp\\151de58b-722e-4468-a83d-5e64cce5973a_1-CRUD_CSHARP_FUNCIONANDO.zip.73a\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FrmFunc.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\151de58b-722e-4468-a83d-5e64cce5973a_1-CRUD_CSHARP_FUNCIONANDO.zip.73a\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\FrmFunc.cs [Somente Leitura]",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:33:26.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Teste_Conexao",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Teste_Conexao.csproj",
+              "RelativeDocumentMoniker": "Teste_Conexao\\Teste_Conexao.csproj",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\csharp\\1-CRUD_CSHARP_FUNCIONANDO\\CRUD_CSHARP\\CRUD_CSHARP\\Conexao_BD\\Teste_Conexao\\Teste_Conexao.csproj",
+              "RelativeToolTip": "Teste_Conexao\\Teste_Conexao.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T14:56:09.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
